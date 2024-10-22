@@ -9,6 +9,7 @@ Tools & Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Te
 Databases: MySQL, PostgreSQL
 Version Control: Git, GitHub
 Other: Microsoft Excel, Jupyter Notebooks, Power BI
+
 Projects:
 I have worked on a variety of personal and group projects that involve:
 
@@ -20,7 +21,7 @@ Let's Connect:
 Email: meganligare21@gmail.com
 Phone: +254746500078
 GitHub: github.com/MEGANLIGARE
-LinkedIn:https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
 I am always open to collaboration and exciting opportunities in data science and analytics. Let’s connect!
 
 
