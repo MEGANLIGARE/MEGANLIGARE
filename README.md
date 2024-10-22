@@ -15,7 +15,6 @@ I have worked on a variety of personal and group projects that involve:
 Predictive Modeling: Customer churn prediction, sales forecasting, and more.
 Data Analysis: Exploratory data analysis (EDA), visualizations, and statistical reporting.
 Web Development: Integrating HTML into data science projects.
-Check out my [portfolio](C:\Users\meg\Data Science\PORTFOLIO) for detailed descriptions of my projects.
 
 Let's Connect:
 Email: meganligare21@gmail.com
